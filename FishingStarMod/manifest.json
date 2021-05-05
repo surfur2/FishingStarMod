@@ -1,0 +1,10 @@
+﻿{
+    "Name": "FishingStarMod",
+    "Author": "Nate Blair",
+    "Version": "1.0.0",
+    "Description": "Stardew Valley Mod that will show fishing information for season, weather, and time of day.",
+    "UniqueID": "NateBlair.FishingStarMod",
+    "EntryDll": "FishingStarMod.dll",
+    "MinimumApiVersion": "3.0.0",
+    "UpdateKeys": []
+}
